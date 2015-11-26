@@ -19,7 +19,7 @@ qfish 分享的 3 张示例图（ Gif ），如下：
 ![](http://ww3.sinaimg.cn/large/7cc829d3gw1eb5sxp4vcgg20iq0cmaq5.gif)
 
 ###安装方法
-####通过命令行
+####自动安装（打开终端，复制下面代码到终端）
 >curl -fsSL http://qfi.sh/XAlign/build/install.sh | sh
 
 ####手动安装
@@ -27,17 +27,9 @@ qfish 分享的 3 张示例图（ Gif ），如下：
 - 解压后，复制 *XAlign.xcplugin* 到下面的目录中
 >~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/
 
-- Tips: cmd+shift+g 快速查找；如果没有 Plug-ins 目录，你得创建一个
+- 友情提示: cmd+shift+g 快速查找；如果没有 Plug-ins 目录，你得创建一个
 
 - 重启Xcode即可
-
-###卸载-打开command-line
-> curl github.so/XAlign/build/uninstall.sh | sh
-
-
-###或者直接删除下面的目录
-
->~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XAlign.xcplugin
 
 ###使用说明
 - 直接打开Xcode
@@ -45,6 +37,17 @@ qfish 分享的 3 张示例图（ Gif ），如下：
 
 - 或者快捷键
 >shfit + cmd + x
+
+###卸载
+>打开command-line
+> curl github.so/XAlign/build/uninstall.sh | sh
+
+
+###或者直接删除下面的目录
+
+>~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XAlign.xcplugin
+
+
 
 >
 **github地址**：https://github.com/Mingriweiji-github/XAlign
