@@ -39,12 +39,12 @@ qfish 分享的 3 张示例图（ Gif ），如下：
 >shfit + cmd + x
 
 ###卸载
->打开command-line
+>打开command-line，输入下面代码
 
 > curl github.so/XAlign/build/uninstall.sh | sh
 
 
-###或者直接删除下面的目录
+###或者直接删除下面的目录，代码如下：
 
 >~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XAlign.xcplugin
 
