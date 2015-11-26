@@ -19,10 +19,10 @@ qfish 分享的 3 张示例图（ Gif ），如下：
 ![](http://ww3.sinaimg.cn/large/7cc829d3gw1eb5sxp4vcgg20iq0cmaq5.gif)
 
 ###安装方法
-1.通过命令行
+####通过命令行
 >curl -fsSL http://qfi.sh/XAlign/build/install.sh | sh
 
-2.手动安装
+####手动安装
 -下载
 -解压后，复制 *XAlign.xcplugin* 到下面的目录中
 >~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/
