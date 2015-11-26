@@ -23,13 +23,13 @@ qfish 分享的 3 张示例图（ Gif ），如下：
 >curl -fsSL http://qfi.sh/XAlign/build/install.sh | sh
 
 ####手动安装
--下载
--解压后，复制 *XAlign.xcplugin* 到下面的目录中
+- 下载
+- 解压后，复制 *XAlign.xcplugin* 到下面的目录中
 >~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/
 
-3.Tips: cmd+shift+g 快速查找；如果没有 Plug-ins 目录，你得创建一个
+- Tips: cmd+shift+g 快速查找；如果没有 Plug-ins 目录，你得创建一个
 
-4.重启Xcode即可
+- 重启Xcode即可
 
 ###卸载-打开command-line
 > curl github.so/XAlign/build/uninstall.sh | sh
