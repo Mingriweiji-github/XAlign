@@ -11,9 +11,11 @@ qfish 分享的 3 张示例图（ Gif ），如下：
 
 
 **2.宏定义组对齐**
+
 ![](http://ww4.sinaimg.cn/large/7cc829d3gw1eb5sxk9pjtg20jy0d8e3r.gif) 
 
 **3. 按属性群组对齐**
+
 ![](http://ww3.sinaimg.cn/large/7cc829d3gw1eb5sxp4vcgg20iq0cmaq5.gif)
 
 ###安装方法
