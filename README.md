@@ -40,6 +40,7 @@ qfish 分享的 3 张示例图（ Gif ），如下：
 
 ###卸载
 >打开command-line
+
 > curl github.so/XAlign/build/uninstall.sh | sh
 
 
@@ -49,8 +50,8 @@ qfish 分享的 3 张示例图（ Gif ），如下：
 
 
 
->
-**github地址**：https://github.com/Mingriweiji-github/XAlign
+>翻译说明地址
+**@github地址**：https://github.com/Mingriweiji-github/XAlign
 
 我是中文分割线
 
