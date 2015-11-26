@@ -40,11 +40,12 @@ qfish 分享的 3 张示例图（ Gif ），如下：
 >~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XAlign.xcplugin
 
 ###使用说明
-打开Xcode
+- 直接打开Xcode
 >Xcode -> Edit -> XAlign 
 
-使用快捷键
+- 或者快捷键
 >shfit + cmd + x
+
 >
 **github地址**：https://github.com/Mingriweiji-github/XAlign
 
