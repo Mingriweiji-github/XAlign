@@ -1,3 +1,55 @@
+XAlign中文版说明
+###XAlign:用于代码对齐的Xcode插件
+XAlign 是一个 Xcode 的实用插件，用于对齐规范代码。除了插件作者 qfish 提供的 3 种对齐格式，还可以自定义任意你想要的格式。
+
+示例
+
+qfish 分享的 3 张示例图（ Gif ），如下：
+
+**1.按首个 = 对齐**
+
+ ![](http://ww3.sinaimg.cn/large/7cc829d3gw1eb5sxhxi2xg20jy0eokfw.gif)
+
+
+**2.宏定义组对齐**
+![](http://ww4.sinaimg.cn/large/7cc829d3gw1eb5sxk9pjtg20jy0d8e3r.gif) 
+
+**3. 按属性群组对齐**
+![](http://ww3.sinaimg.cn/large/7cc829d3gw1eb5sxp4vcgg20iq0cmaq5.gif)
+
+###安装方法
+1.通过命令行
+>curl -fsSL http://qfi.sh/XAlign/build/install.sh | sh
+
+2.手动安装
+-下载
+-解压后，复制 *XAlign.xcplugin* 到下面的目录中
+>~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/
+
+3.Tips: cmd+shift+g 快速查找；如果没有 Plug-ins 目录，你得创建一个
+
+4.重启Xcode即可
+
+###卸载-打开command-line
+> curl github.so/XAlign/build/uninstall.sh | sh
+
+
+###或者直接删除下面的目录
+
+>~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XAlign.xcplugin
+
+###使用说明
+打开Xcode
+>Xcode -> Edit -> XAlign 
+
+使用快捷键
+>shfit + cmd + x
+>
+**github地址**：
+
+我是中文分割线
+
+---
 XAlign
 ======
 
